@@ -14,9 +14,8 @@
 
 ### 방법 1: 실행 파일(.exe) 다운로드 (가장 쉬운 방법)
 
-- GitHub 리포지토리의 [릴리스 페이지](https://github.com/nebulakes/pdf-merger/releases)에서 `PDFMerger.exe` 파일을 다운로드하세요.
+- GitHub 리포지토리의 [릴리스 페이지](https://github.com/nebulakes/pdf_merger/releases)에서 `PDFMerger.exe` 파일을 다운로드하세요.
 - 다운로드한 파일을 더블클릭하면 즉시 프로그램이 실행됩니다.
-- **참고**: `.\dist\PDFMerger.exe` 파일만 다운로드하여 사용하셔도 됩니다. Python이나 다른 라이브러리를 설치할 필요가 없습니다.
 
 ### 방법 2: 소스 코드로 실행하기
 
